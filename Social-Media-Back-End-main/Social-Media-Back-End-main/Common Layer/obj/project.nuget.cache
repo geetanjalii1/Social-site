@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4tfmANpgl8OdHYuF8hCMPXpWDcC6bEYKO7scUV0qEc2bxd5BDvaPfELPfTQIyxq6G/WEwnnUjb7u1ggDZL9wiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\visha\\source\\repos\\YouTube Project\\Social Media Application\\Social Media Application BE\\Common Layer\\Common Layer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\visha\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

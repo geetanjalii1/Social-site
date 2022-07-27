@@ -1,0 +1,110 @@
+.GetPost-Container {
+    height: inherit;
+    width: inherit;
+    display: flex;
+    justify-content: center;
+
+    .GetPost-SubContainer {
+        height: inherit;
+        width: 80%;
+        border: 0.5px solid lightgray;
+        overflow: auto;
+
+        .GetPost-DataFlex {
+            height: 80%;
+            width: 100%;
+            margin: 0 0 10px 0;
+
+            .GetPost-Header {
+                display: flex;
+                font-family: "Roboto";
+                font-weight: 500;
+                height: 12%;
+                width: 100%;
+                // border: 0.5px solid lightgreen;
+                padding: 5px 0 5px 10px;
+                box-sizing: border-box;
+
+                .Account-Text {
+                    margin: 8px 0 0 0;
+                    box-sizing: border-box;
+                }
+            }
+
+            .GetPost-Body {
+                height: 70%;
+                width: 100%;
+                border: 0.5px solid lightgray;
+                margin: 5px 0 0 0;
+                box-sizing: border-box;
+                background-color: lightblue;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+                .GetPost-Body-Text {
+                    width: inherit;
+                    height: 80%;
+                    background-color: white;
+                    padding: 10px;
+                    box-sizing: border-box;
+                    font-family: "Roboto";
+                    font-weight: 500;
+                    overflow: auto;
+                }
+
+                .GetPost-Body-Text::-webkit-scrollbar {
+                    display: none;
+                }
+            }
+
+            .GetPost-Footer {
+                height: 18%;
+                width: inherit;
+                border-bottom: 0.5px solid lightgrey;
+                padding: 5px;
+                box-sizing: border-box;
+                font-family: "Roboto";
+
+                .GetPost-Footer-Operation {
+                    display: flex;
+                    font-weight: 600;
+
+                    .GetPost-Footer-Operation-Text {
+                        margin: 3px 0 0 0;
+                    }
+                }
+
+                .GetPost-Footer-Caption {
+                    display: flex;
+
+                    .GetPost-Footer-Caption-UserName {
+                        // border: 0.5px solid lightgray;
+                        font-weight: 500;
+                        min-width: 105px;
+                        margin: 2px 0 0 0;
+                        display: flex;
+                        text-overflow: ellipsis;
+                        white-space: nowrap;
+                    }
+
+                    .GetPost-Footer-Caption-Text {
+                        // border: 0.5px solid lightgray;
+                        font-weight: 400;
+                        width: fit-content;
+                        margin: 2px 0 0 10px;
+                        height: 37px;
+                        text-overflow: ellipsis;
+                        overflow: hidden;
+                        display: flex;
+                        font-size: 14px;
+                    }
+                }
+            }
+        }
+    }
+
+    .GetPost-SubContainer::-webkit-scrollbar {
+        display: none;
+    }
+}

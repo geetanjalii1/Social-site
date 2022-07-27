@@ -1,0 +1,17 @@
+C:\Users\visha\source\repos\YouTube Project\Social Media Application\Social Media Application BE\Service Layer\bin\Debug\net5.0\Service Layer.deps.json
+C:\Users\visha\source\repos\YouTube Project\Social Media Application\Social Media Application BE\Service Layer\bin\Debug\net5.0\Service Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Social Media Application\Social Media Application BE\Service Layer\bin\Debug\net5.0\ref\Service Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Social Media Application\Social Media Application BE\Service Layer\bin\Debug\net5.0\Service Layer.pdb
+C:\Users\visha\source\repos\YouTube Project\Social Media Application\Social Media Application BE\Service Layer\bin\Debug\net5.0\Common Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Social Media Application\Social Media Application BE\Service Layer\bin\Debug\net5.0\Repository Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Social Media Application\Social Media Application BE\Service Layer\bin\Debug\net5.0\Common Layer.pdb
+C:\Users\visha\source\repos\YouTube Project\Social Media Application\Social Media Application BE\Service Layer\bin\Debug\net5.0\Repository Layer.pdb
+C:\Users\visha\source\repos\YouTube Project\Social Media Application\Social Media Application BE\Service Layer\obj\Debug\net5.0\Service Layer.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\YouTube Project\Social Media Application\Social Media Application BE\Service Layer\obj\Debug\net5.0\Service Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\YouTube Project\Social Media Application\Social Media Application BE\Service Layer\obj\Debug\net5.0\Service Layer.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\YouTube Project\Social Media Application\Social Media Application BE\Service Layer\obj\Debug\net5.0\Service Layer.AssemblyInfo.cs
+C:\Users\visha\source\repos\YouTube Project\Social Media Application\Social Media Application BE\Service Layer\obj\Debug\net5.0\Service Layer.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\YouTube Project\Social Media Application\Social Media Application BE\Service Layer\obj\Debug\net5.0\Service Layer.csproj.CopyComplete
+C:\Users\visha\source\repos\YouTube Project\Social Media Application\Social Media Application BE\Service Layer\obj\Debug\net5.0\Service Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Social Media Application\Social Media Application BE\Service Layer\obj\Debug\net5.0\ref\Service Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Social Media Application\Social Media Application BE\Service Layer\obj\Debug\net5.0\Service Layer.pdb

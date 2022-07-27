@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Service_Layer</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common Layer\Common Layer.csproj" />
+    <ProjectReference Include="..\Repository Layer\Repository Layer.csproj" />
+  </ItemGroup>
+
+</Project>
